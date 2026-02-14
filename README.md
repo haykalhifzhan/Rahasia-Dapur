@@ -4,6 +4,7 @@ Rahasia Dapur adalah aplikasi pembelajaran memasak berbasis **Web dan Mobile** y
 
 Aplikasi ini menyediakan berbagai resep lengkap dengan deskripsi, daftar bahan, langkah-langkah memasak, tingkat kesulitan, rating, dan video tutorial.
 
+https://rahasia-dapur.vercel.app/
 ---
 
 ## 🚀 Fitur Utama
